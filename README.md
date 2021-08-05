@@ -10,5 +10,5 @@ If the user enters correct information: ![image](https://user-images.githubuserc
 If the user enters incorrect information: ![image](https://user-images.githubusercontent.com/86128944/128406292-0fc91e43-138c-4704-baff-6fd0bf53911c.png)
 
 No SQL databases are used. 
-I have recently learned basic Java GUI and implemented this throught this project.
+I have learned basic Java GUI and implemented this throught this project earlier and uploaded this as a repository as of 6th August.
 
