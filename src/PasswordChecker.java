@@ -84,6 +84,7 @@ public class PasswordChecker implements ActionListener {
         }
         if (NameCheck==false){
             checker.setText("Incorrect Name or password");
+            System.out.println("Set up a printer?");
         }
 
 
